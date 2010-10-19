@@ -10,3 +10,6 @@
 [submodule "home/.vim/bundle/rooter"]
 	path = home/.vim/bundle/rooter
 	url = http://github.com/airblade/vim-rooter.git
+[submodule "home/.vim/bundle/markdown"]
+	path = home/.vim/bundle/markdown
+	url = http://github.com/robertwahler/vim-markdown.git
