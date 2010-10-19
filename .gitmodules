@@ -64,3 +64,6 @@
 [submodule "home/.vim/bundle/L9"]
 	path = home/.vim/bundle/L9
 	url = http://github.com/vim-scripts/L9.git
+[submodule "home/.vim/bundle/zencoding"]
+	path = home/.vim/bundle/zencoding
+	url = http://github.com/mattn/zencoding-vim.git
