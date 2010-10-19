@@ -1,3 +1,6 @@
 [submodule "home/.vim/bundle/sparkup"]
 	path = home/.vim/bundle/sparkup
 	url = http://github.com/sophacles/vim-bundle-sparkup.git
+[submodule "home/.vim/bundle/LustyJuggler"]
+	path = home/.vim/bundle/LustyJuggler
+	url = http://github.com/vim-scripts/LustyJuggler.git
