@@ -16,3 +16,6 @@
 [submodule "home/.vim/bundle/peepopen"]
 	path = home/.vim/bundle/peepopen
 	url = http://github.com/shemerey/vim-peepopen.git
+[submodule "home/.vim/bundle/surround"]
+	path = home/.vim/bundle/surround
+	url = http://github.com/tpope/vim-surround.git
