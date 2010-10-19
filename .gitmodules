@@ -52,3 +52,6 @@
 [submodule "home/.vim/bundle/tcomment"]
 	path = home/.vim/bundle/tcomment
 	url = http://github.com/tsaleh/vim-tcomment.git
+[submodule "home/.vim/bundle/task"]
+	path = home/.vim/bundle/task
+	url = git://github.com/samsonw/vim-task.git
