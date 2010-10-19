@@ -55,3 +55,6 @@
 [submodule "home/.vim/bundle/task"]
 	path = home/.vim/bundle/task
 	url = git://github.com/samsonw/vim-task.git
+[submodule "home/.vim/bundle/snipmate"]
+	path = home/.vim/bundle/snipmate
+	url = http://github.com/msanders/snipmate.vim.git
