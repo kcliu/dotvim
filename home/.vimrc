@@ -270,6 +270,12 @@ nnoremap <leader>ff  :FufFile<CR>
 nnoremap <leader>fb  :FufBuffer<CR>
 " }}}
 
+" tComment settings {{{
+nnoremap <leader>c :TComment
+vnoremap <leader>c :TComment
+" }}}
+
+
 " Managing buffers with LustyJuggler {{{
 nnoremap <leader>b :LustyJuggler<CR>
 " }}}
