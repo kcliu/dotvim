@@ -40,3 +40,6 @@
 [submodule "home/.vim/bundle/ragtag"]
 	path = home/.vim/bundle/ragtag
 	url = http://github.com/tpope/vim-ragtag.git
+[submodule "home/.vim/bundle/command-t"]
+	path = home/.vim/bundle/command-t
+	url = git://git.wincent.com/command-t.git
