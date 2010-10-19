@@ -271,8 +271,8 @@ nnoremap <leader>fb  :FufBuffer<CR>
 " }}}
 
 " tComment settings {{{
-nnoremap <leader>c :TComment
-vnoremap <leader>c :TComment
+nnoremap <leader>c :TComment<CR>
+vnoremap <leader>c :TComment<CR>
 " }}}
 
 
