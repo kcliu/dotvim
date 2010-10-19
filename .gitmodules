@@ -46,3 +46,6 @@
 [submodule "home/.vim/bundle/neocomplcache"]
 	path = home/.vim/bundle/neocomplcache
 	url = http://github.com/Shougo/neocomplcache.git
+[submodule "home/.vim/bundle/ack"]
+	path = home/.vim/bundle/ack
+	url = http://github.com/mileszs/ack.vim.git
