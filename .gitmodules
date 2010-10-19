@@ -4,3 +4,6 @@
 [submodule "home/.vim/bundle/LustyJuggler"]
 	path = home/.vim/bundle/LustyJuggler
 	url = http://github.com/vim-scripts/LustyJuggler.git
+[submodule "home/.vim/bundle/scss-syntax"]
+	path = home/.vim/bundle/scss-syntax
+	url = http://github.com/cakebaker/scss-syntax.vim.git
