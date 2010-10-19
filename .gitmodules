@@ -13,3 +13,6 @@
 [submodule "home/.vim/bundle/markdown"]
 	path = home/.vim/bundle/markdown
 	url = http://github.com/robertwahler/vim-markdown.git
+[submodule "home/.vim/bundle/peepopen"]
+	path = home/.vim/bundle/peepopen
+	url = http://github.com/shemerey/vim-peepopen.git
