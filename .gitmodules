@@ -34,3 +34,9 @@
 [submodule "home/.vim/bundle/taglist"]
 	path = home/.vim/bundle/taglist
 	url = http://github.com/vim-scripts/taglist.vim.git
+[submodule "home/.vim/bundle/unimpaired"]
+	path = home/.vim/bundle/unimpaired
+	url = http://github.com/tpope/vim-unimpaired.git
+[submodule "home/.vim/bundle/ragtag"]
+	path = home/.vim/bundle/ragtag
+	url = http://github.com/tpope/vim-ragtag.git
